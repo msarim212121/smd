@@ -22,11 +22,11 @@ app = Flask(__name__)
 CORS(app)
 
 # Telegram Config
-BOT_TOKEN = "ENTER YOUR BOT TOKEN"
-CHAT_ID = "ENTER YOUR CHAT ID"
+BOT_TOKEN = "8574283702:AAEJwSG-Y0NqaN47GicsVrDkKwnut4azXcY"
+CHAT_ID = "7783413625"
 
 # Custom Server URL
-SERVER_NAME = "redx-downloader"
+SERVER_NAME = "Gamechanger-downloader"
 CUSTOM_URL = f"http://{SERVER_NAME}.local:5000"  # Change this to your custom URL
 
 # Proxy APIs for Instagram
