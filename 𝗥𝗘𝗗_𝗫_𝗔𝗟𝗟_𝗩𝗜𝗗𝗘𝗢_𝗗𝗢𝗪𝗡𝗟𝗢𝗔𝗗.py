@@ -1,6 +1,6 @@
 #!/data/data/com.termux/files/usr/bin/python3
 # -*- coding: utf-8 -*-
-# MAKE BY T.ME/REDX_64
+# MAKE BY T.ME/gamechanger_1
 
 import os
 import sys
